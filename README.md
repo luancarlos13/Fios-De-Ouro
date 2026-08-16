@@ -81,6 +81,6 @@ A utilização de imagens relacionadas aos serviços e ao universo dos cabelos c
 - GitHub 📍
 - GitHub Pages 📍
 
-## Link
+## 🖇️ Link
 
 Deploy do Projeto: https://luancarlos13.github.io/Fios-De-Ouro/
